@@ -1,4 +1,4 @@
-using BulgarianPlacesApp.Web.Data;
+using BulgarianPlacesApp.Web.Data.DataModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

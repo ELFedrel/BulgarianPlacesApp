@@ -8,7 +8,7 @@ namespace BulgarianPlacesApp.Web.Data.Models
         [Key]
         public Guid Id { get; set; } = Guid.NewGuid();
 
-       
+        [Required]
         public string Content { get; set; } = null!;
 
 

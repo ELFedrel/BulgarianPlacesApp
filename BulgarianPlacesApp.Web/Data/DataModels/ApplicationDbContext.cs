@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace BulgarianPlacesApp.Web.Data
+namespace BulgarianPlacesApp.Web.Data.DataModels
 {
     public class ApplicationDbContext : IdentityDbContext
     {
